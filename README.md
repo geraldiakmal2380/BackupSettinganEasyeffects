@@ -16,7 +16,7 @@ Menaikkan 3 dB di area sub bass hingga bass. Treble mungkin tetap (gtw lupa juga
 
 # Install (Arch based Distribution)
 ```console
-sudo pacman -S easyeffect lsp-plugins qpwgraph
+sudo pacman -S easyeffects lsp-plugins qpwgraph
 ```
 # How to Import Preset
 1. Download salah satu preset yang kalian ingin gunakan
